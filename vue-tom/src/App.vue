@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
+      <p>王超修改了app.vue</p>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
